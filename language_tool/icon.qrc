@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/ic_warning_red.png</file>
+        <file>icon/ic_title.png</file>
+        <file>icon/ic_minimize.svg</file>
+        <file>icon/ic_drop_down.png</file>
+        <file>icon/ic_close.svg</file>
+    </qresource>
+</RCC>
